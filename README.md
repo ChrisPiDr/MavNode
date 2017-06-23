@@ -1,4 +1,4 @@
-A NodeJS implementation of the MavLink protocol with a web inteface over 
+A NodeJS implementation of the MavLink protocol with a web interface using socket.io
 
 Usage -
 
