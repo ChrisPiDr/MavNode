@@ -1,0 +1,19 @@
+{
+  "name": "nodelink",
+  "version": "0.0.1",
+  "description": "Mavlink NodeJS Sockets.io link",
+  "main": "node.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "http": "^0.0.0",
+    "mavlink": "^1.0.1",
+    "serialport": "^4.0.7",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VoidTyphoon",
+  "license": "ISC"
+}
